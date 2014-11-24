@@ -1,0 +1,42 @@
+## outline for turing_criticism.md
+## Outline
+ - introduction
+ - minor criticisms
+	 - lack of brevity
+	 - failure to define used terms
+ - major criticisms
+	 - incorrect assumptions
+		 - human intelligence is the only form of intelligence
+		 - intelligence may only be demonstrated through communication
+			 - autistic humans, whales
+		 - our world is not the only world
+		 - ability to understand the world the way we understand it is not paramount
+	 - indirectness of proof
+		 - avoidance and misdirection
+		 - he admits his lack of evidence
+		 - he fairly successfully dismisses counter arguments
+	 - dismissal of the mathematical objection
+	 - dismissal of the lovelace objection
+ - corrections
+	 - modern definitions of terms 'machine' and 'intelligence'
+		 - permits the refrasing of the question to "are machines capable of intelligence" or "can minds be synthesized"
+	 - discrete state machines are not the only universal machines, just the most easily programmed
+		 - discrete state machines are capable of emulating any mechanism
+		 - any emulation in inefficient
+		 - such an approach is ineffective, yet theoretically feasible
+ - improvements
+	 - proof of intelligence through ability to learn to play games
+		 - more general
+		 - imitation game may be included
+		 - flexibility of game learning may be measured and compared
+		 - depth of game learning may be measured and compared
+		 - universal and complete
+		 - indeed, many modern AI techniques may be considered to take this approach
+ - additions
+	 - propose definition of 'mind' to be "the unit of an intelligent mechanism"
+		 - human mind units, mouse mind units, fly mind units
+		 - permits measurement of intelligence
+	 - traffic light
+ - short proof
+ - conclusion
+ - references
