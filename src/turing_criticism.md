@@ -7,6 +7,7 @@ Date: `7deb17` / `2014-11-23`
 License: Creative Commons by Attribution  
 Sources: [`github.com/kurotetsuka/papers`](
 	https://github.com/kurotetsuka/papers/blob/master/src/turing_criticism.md)  
+Permalink: [`v0.1.0`](https://github.com/kurotetsuka/papers/releases/download/turing-criticism_v0.1.0/turing_criticism.pdf)
 
 ## 1.0 Introduction { #intro }
 Alan Turing's famous essay "Computing Machinery and Intelligence" is 
