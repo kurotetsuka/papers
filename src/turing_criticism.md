@@ -35,14 +35,15 @@ in the second, brief allusion, he make the claim "Animals' minds seem
 to be very definitely subcritical."(Section 7). This has been proven to 
 be false. Octopi and honey badgers, for example, have been demonstrated 
 to be amazing escape artists^\[0,0\]^. Dolphins have been shown to have 
-developed their own unique languages consisting of whistles^\[0\]^. In fact, there is no trait of human intelligence that not 
-demonstrated in other animals. Some animals even surpass human 
-intelligence! By dismissing all non-human intelligence, Turing ignores 
-one of the strongest arguments for the feasibility of synthetic 
-intelligence -- If we can build mechanisms to emulate lower natural 
-forms of intelligence, could we not clearly work our way up to the 
-higher forms? Instead, Turing attempts to skip straight to human-level 
-intelligence, missing this key point.
+developed their own unique languages consisting of whistles^\[0\]^. In 
+fact, there is no trait of human intelligence that not demonstrated in 
+other animals. Some animals even surpass human intelligence! By 
+dismissing all non-human intelligence, Turing ignores one of the 
+strongest arguments for the feasibility of synthetic intelligence -- If 
+we can build mechanisms to emulate lower natural forms of intelligence, 
+could we not clearly work our way up to the higher forms? Instead, 
+Turing attempts to skip straight to human-level intelligence, missing 
+this key point.
 
 ***Intelligence may only be Demonstrated through Communication.***  
 The entire premise of Turing's imitation game is founded on the 
@@ -124,7 +125,9 @@ results. Present day research on the programming of neural turing
 machines demonstrates this.
 
 ## 4.0 Improvements {#improvements}
-Given all of the above, I will attempt to offer an improvement on the Turing test, providing a general test of intelligence, suitable for testing of natural and synthetic intelligence alike.
+Given all of the above, I will attempt to offer an improvement on the 
+Turing test, providing a general test of intelligence, suitable for 
+testing of natural and synthetic intelligence alike.
 
 The original Turing test focused mainly on demonstrating understanding 
 of the human world and the ability to manipulate that understanding. I 
@@ -135,7 +138,7 @@ natural or synthetic, present it with a game. The intelligence may
 receive signals representing the state of the game in some format 
 compatible to it's mechanism, and may send signals intended to 
 manipulate the game world. For example, given the game of checkers, the 
-intelligence may be presented with a picture that represent the state 
+intelligence may be presented with a picture that represents the state 
 of the board. Given the game of a maze, it would be presented with a 
 picture of what it can see from its position in the maze. Given 
 Turing's imitation game, it would be presented with the text of the 
@@ -161,8 +164,9 @@ inflexible, and shallow. Most good AIs are only capable of playing a
 single game, and the few techniques that can be applied to multiple 
 games are slow and shallow. A few new contenders with great potential 
 include the cortical learning algorithm (CLA), hierarchical temporal 
-memory (HTM), and various deep learning and belief neural nets. Still, 
-the main challenge with such mechanisms remains their programming.
+memory (HTM), and various deep learning and deep belief neural nets. 
+Still, the main challenge with such mechanisms remains their 
+programming.
 
 ## 5.0 Additions {#additions}
 
