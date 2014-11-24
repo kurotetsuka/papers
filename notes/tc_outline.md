@@ -29,6 +29,7 @@
 		 - more general
 		 - imitation game may be included
 		 - quality of play may be measured and compared
+		 - speed of improvement
 		 - flexibility of game learning may be measured and compared
 		 - depth of game learning may be measured and compared
 		 - universal and complete

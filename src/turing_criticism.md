@@ -11,7 +11,7 @@ Sources: [`github.com/kurotetsuka/papers`](
 Permalink: [`turing-criticism_v0.1.0`](
 	https://github.com/kurotetsuka/papers/releases/download/turing-criticism_v0.1.0/turing_criticism.pdf)
 
-## 1.0 Introduction { #intro }
+## 1.0 Introduction {#intro}
 Alan Turing's famous essay "Computing Machinery and Intelligence" is 
 greatly regarded in the field of Artificial Intelligence. While his 
 thesis is correct, his argument is flawed in many ways. From a modern 
@@ -23,9 +23,9 @@ attempt not to dismiss the validity or value of the original work, but
 to strengthen Turing's thesis beyond any doubt. Machines are definitely 
 and provably capable of true intelligence, human-like and otherwise.
 
-## 2.0 Criticisms { #crits }
+## 2.0 Criticisms {#crits}
 
-### 2.1 Incorrect Assumptions { #crits-assumptions }
+### 2.1 Incorrect Assumptions {#crits-assumptions}
 
 ***Non-Intelligence of Animals.***  
 Surprisingly, Turing alludes infrequently to animals. In his first 
@@ -54,7 +54,7 @@ other great cognitive abilities. How would the autistic individual fare
 in the test? The focus of the game on communication, while convenient 
 for the typical human examiner, is clearly too narrow.
 
-### 2.2 Indirectness of Proof { #crits-directness }
+### 2.2 Indirectness of Proof {#crits-directness}
 Turing, as he himself admits (Section 7), has little supporting 
 evidence for his claim. Unfortunately, he decides to support his thesis 
 solely through discrediting the opposition of his time. Instead of 
@@ -66,7 +66,7 @@ close with his 'skin-of-an-onion' analogy, yet fails to fails to show
 that the 'skin-of-an-onion' approach must be true. In not even 
 attempting a proof, he doomed his essay to inconclusiveness.
 
-### 2.3 Dismissal of the Mathematical Objection { #crits-math }
+### 2.3 Dismissal of the Mathematical Objection {#crits-math}
 Turing's dismissal of the mathematical objection to his thesis is 
 completely inadequate. He states that although machines can be made to 
 make mistakes, humans too can be made to make mistakes. This has 
@@ -76,7 +76,7 @@ not just apply to machines, but humans as well. Thus, it cannot be a
 limiting factor to intelligence, and has no implication on the 
 feasibility of intelligent machines. It does, however, have implications on the design of intelligent machines.
 
-### 2.4 Dismissal of the Lovelace Objection { #crits-lovelace }
+### 2.4 Dismissal of the Lovelace Objection {#crits-lovelace}
 Though somewhat better, Turing's dismissal of the Lovelace objection is 
 also insufficient, perhaps due to his fixation with discrete-state 
 machines. The issue of discrete-state machines will be discussed 
@@ -93,9 +93,9 @@ emulating the machine which could acheive intelligence. However, since
 he fails to prove that such a machine can exist, his dismissal is 
 incomplete.
 
-## 3.0 Corrections { #cor }
+## 3.0 Corrections {#corr}
 
-### 3.1 Definitions { #corr-definitions }
+### 3.1 Definitions {#corr-definitions}
 Perhaps in Turing's day the meaning of the words 'machine', 'think', 
 and 'intelligence' were ambiguous, but in the present day, these terms 
 are used fairly consistently. The term 'machine' refers to a synthetic 
@@ -108,7 +108,7 @@ rephrasal does not directly imply the solution, it does make the issue
 more clear. Since Turing's essay suffers from the intentional avoidance 
 of definitions, this is necessary.
 
-### 3.3 Limitations of Discrete-State Machines { #corr-discrete }
+### 3.3 Limitations of Discrete-State Machines {#corr-discrete}
 One limitation of discrete-state machines is discussed in [&sect;2.3](
 #crits-math). It is absolutely not the sole limitation of such 
 machines, nor are such machines the only universal computers. Discrete-
@@ -123,16 +123,54 @@ seems that working directly with neural machines gives much better
 results. Present day research on the programming of neural turing 
 machines demonstrates this.
 
-## 4.0 Improvements { #improvements }
+## 4.0 Improvements {#improvements}
 Given all of the above, I will attempt to offer an improvement on the Turing test, providing a general test of intelligence, suitable for testing of natural and synthetic intelligence alike.
 
-## 5.0 Additions { #additions }
+The original Turing test focused mainly on demonstrating understanding 
+of the human world and the ability to manipulate that understanding. I 
+propose that the test may be made more general; That it should test the 
+ability to understand and manipulate any given world. The easy way to 
+accomplish this is through games. Given some intelligent mechanism, 
+natural or synthetic, present it with a game. The intelligence may 
+receive signals representing the state of the game in some format 
+compatible to it's mechanism, and may send signals intended to 
+manipulate the game world. For example, given the game of checkers, the 
+intelligence may be presented with a picture that represent the state 
+of the board. Given the game of a maze, it would be presented with a 
+picture of what it can see from its position in the maze. Given 
+Turing's imitation game, it would be presented with the text of the 
+question of the interrogator. From there, the intelligence may send a 
+response signal in some format. Given the game of checkers, its 
+response signal would represent the placement of a piece on the board. 
+It is critical that the intelligence is forced to infer every aspect of 
+the game, from ruleset to win and loss conditions, only by the effect 
+its output signals have on its input signals. By presenting the 
+intelligence with various games that test the various aspects of 
+intelligence, one may measure quantitative metrics on its performance, 
+such as speed, flexibility, and depth of learning. An intelligence may 
+then be considered to have reached human-level when it performs with 
+comparable speed, flexibility, and depth of learning on every tested 
+game. Such a test has the useful property of being complete -- If one 
+is concerned that the test is missing some critical component of 
+intelligence, one needs to just devise a new game that demonstrates 
+that component of intelligence.
 
-## 6.0 Short Proof { #short-proof }
+Indeed, many AI techniques may be considered to be taking a similar 
+approach. Unfortunately, most modern techniques are still fairly slow, 
+inflexible, and shallow. Most good AIs are only capable of playing a 
+single game, and the few techniques that can be applied to multiple 
+games are slow and shallow. A few new contenders with great potential 
+include the cortical learning algorithm (CLA), hierarchical temporal 
+memory (HTM), and various deep learning and belief neural nets. Still, 
+the main challenge with such mechanisms remains their programming.
 
-## 7.0 Conclusion { #conclusion }
+## 5.0 Additions {#additions}
 
-## 8.0 References { #refs }
+## 6.0 Short Proof {#short-proof}
+
+## 7.0 Conclusion {#conclusion}
+
+## 8.0 References {#refs}
 
 | \[0\] Honey Badger Houdini - Honey Badgers: Masters of Mayhem.  
 |     <https://www.youtube.com/watch?v=c36UNSoJenI>  
