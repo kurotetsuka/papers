@@ -86,11 +86,11 @@ objection is simply that it is no objection at all. Lovelace states
 that the Analytical Engine can perform just that which humans know how 
 to command it to perform. Humans, too, can perform only that which they 
 know how to command themselves to perform. Just as we can communicate 
-the instructions to acheive intelligence to ourselves and other humans, 
+the instructions to achieve intelligence to ourselves and other humans, 
 it must be possible to to program these instructions into some machine. 
 Turing takes the differing approach of stating that since the 
 Analytical Engine was Turing-complete, it must have been capable of 
-emulating the machine which could acheive intelligence. However, since 
+emulating the machine which could achieve intelligence. However, since 
 he fails to prove that such a machine can exist, his dismissal is 
 incomplete.
 
@@ -169,10 +169,39 @@ Still, the main challenge with such mechanisms remains their
 programming.
 
 ## 5.0 Additions {#additions}
+Additionally, I wish to propose new definition of the term 'mind'. 
+'Mind' may be considered to be a "unit of an intelligent mechanism". 
+This definition has the useful property of being compatible with the 
+previously discussed intelligence test. For example, one could define 
+the minimum cognitive function required to play at a human level to be 
+one human mind unit. Similarly, an amount of cognitive comparable to a 
+mouse could be defined to be one mouse mind unit. This definition of 
+the mind is fairly flexible. Suppose that a few years from now, it's 
+found that the minimum cognitive hardware needed for intelligence is a 
+complete, human-sized neural network. No problem, just define the 
+minimal unit of mind to be one human mind unit. Supposed it's about the 
+level of a cat, just define it to be one cat mind unit. Coupled with 
+the above test, this definition enabled quantitative and objective 
+measures of general intelligence.
 
-## 6.0 Short Proof {#short-proof}
+## 6.0 Short Proofs {#short-proof}
+Here I will make a few short attempts at proofs of feasibility of 
+intelligent machines.
+
+### 6.1 Proof through Human Example {#proof-one}
+Human minds are capable of performing lambda calculus. Since it has 
+been shown that any mechanism capable of performing lambda calculus is 
+turing-complete, human minds are universal computers. Thus human minds 
+are examples of intelligent machines. 
+
+### 6.2 Proof by Turing Completeness {#proof-two}
+Assume that the mechanisms of the human mind can be emulated. Since it 
+can be emulated, the human mind must be capable of running on any 
+turing-complete machine. Since human minds are intelligent, and can be 
+run on machines, intelligent machines much be possible.
 
 ## 7.0 Conclusion {#conclusion}
+While visionary and an inspiration to much of modern AI, Turing's argument for the feasibility of intelligent machines was somewhat weak
 
 ## 8.0 References {#refs}
 
