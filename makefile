@@ -2,7 +2,7 @@
 default: papers
 freshen: clean papers
 clean:
-	rm -f *.pdf
+	rm -f gen/*.pdf
 
 # vars
 viewer = evince

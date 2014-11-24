@@ -20,8 +20,9 @@ to dissect his work, identify significant flaws, and offer
 improvements. Additionally, when useful, I will discuss new relevant 
 evidence that has been produced since the original work. In doing so, I 
 attempt not to dismiss the validity or value of the original work, but 
-to strengthen Turing's thesis beyond any doubt. Machines are definitely 
-and provably capable of true intelligence, human-like and otherwise.
+to strengthen Turing's thesis beyond any resonable doubt. Machines are 
+definitely and provably capable of true intelligence, human-like and 
+otherwise.
 
 ## 2.0 Criticisms {#crits}
 
@@ -29,21 +30,21 @@ and provably capable of true intelligence, human-like and otherwise.
 
 ***Non-Intelligence of Animals.***  
 Surprisingly, Turing alludes infrequently to animals. In his first 
-reference (Section 6.1) he simply states that he believes animals to be 
+reference (&sect;6.1) he simply states that he believes animals to be 
 closer to humans than inanimate objects, a fairly sound claim. However 
 in the second, brief allusion, he make the claim "Animals' minds seem 
-to be very definitely subcritical."(Section 7). This has been proven to 
+to be very definitely subcritical."(&sect;7). This has been proven to 
 be false. Octopi and honey badgers, for example, have been demonstrated 
 to be amazing escape artists^\[1,2\]^. Dolphins have been shown to have 
 developed their own unique languages consisting of whistles^\[3\]^. In 
-fact, there is no trait of human intelligence that not demonstrated in 
-other animals. Some animals even surpass human intelligence! By 
+fact, there is no trait of human intelligence that is not demonstrated 
+in other animals. Some animals even surpass human intelligence! By 
 dismissing all non-human intelligence, Turing ignores one of the 
 strongest arguments for the feasibility of synthetic intelligence -- If 
 we can build mechanisms to emulate lower natural forms of intelligence, 
 could we not clearly work our way up to the higher forms? Instead, 
 Turing attempts to skip straight to human-level intelligence, missing 
-this key point.
+this key point.\newpage
 
 ***Intelligence may only be Demonstrated through Communication.***  
 The entire premise of Turing's imitation game is founded on the 
@@ -56,7 +57,7 @@ in the test? The focus of the game on communication, while convenient
 for the typical human examiner, is clearly too narrow.
 
 ### 2.2 Indirectness of Proof {#crits-directness}
-Turing, as he himself admits (Section 7), has little supporting 
+Turing, as he himself admits (&sect; 7), has little supporting 
 evidence for his claim. Unfortunately, he decides to support his thesis 
 solely through discrediting the opposition of his time. Instead of 
 mathematically or logically proving his position unassailable, he 
@@ -100,8 +101,8 @@ incomplete.
 Perhaps in Turing's day the meaning of the words 'machine', 'think', 
 and 'intelligence' were ambiguous, but in the present day, these terms 
 are used fairly consistently. The term 'machine' refers to a synthetic 
-mechanism, as opposed to a natural one. The term 'intelligence', pretty 
-universally, refers to the ability to recognize and manipulate 
+mechanism, as opposed to a natural one. The term 'intelligence', fairly 
+universally refers to the ability to recognize and manipulate 
 patterns. Acceptance of these definitions permits one to rephrase the 
 somewhat ambiguous question "Can machines think?" to "Can the ability 
 to recognize and manipulate patterns be synthesized?". While this 
@@ -113,16 +114,16 @@ of definitions, this is necessary.
 One limitation of discrete-state machines is discussed in [&sect;2.3](
 #crits-math). It is absolutely not the sole limitation of such 
 machines, nor are such machines the only universal computers. Discrete-
-state machines are just the easiest of universal computers to program. 
-Turing seems to have some obsession with such machines, perhaps due to 
-his familiarity with them. Which such machines are capable of emulating 
-any mechanism, any emulation is inefficient. All modern knowledge on 
-intelligence and the mechanisms of the brain indicate that it is a 
-continuous, massively parallel process. While the emulation approach is 
-theoretically feasible, it would be quite ineffective. Instead, it 
-seems that working directly with neural machines gives much better 
-results. Present day research on the programming of neural turing 
-machines demonstrates this.
+state machines are simply the easiest of universal computers to 
+program. Turing seems to have some obsession with such machines, 
+perhaps due to his familiarity with them. While such machines are 
+capable of emulating any mechanism, any emulation is inefficient. All 
+modern knowledge on intelligence and the mechanisms of the brain 
+indicate that it is a continuous, massively parallel process. While the 
+emulation approach is theoretically feasible, it would be quite 
+ineffective. Instead, it seems that working directly with neural 
+machines gives much better results. Present day research on the 
+programming of neural turing machines demonstrates this.
 
 ## 4.0 Improvements {#improvements}
 Given all of the above, I will attempt to offer an improvement on the 
@@ -136,52 +137,52 @@ ability to understand and manipulate any given world. The easy way to
 accomplish this is through games. Given some intelligent mechanism, 
 natural or synthetic, present it with a game. The intelligence may 
 receive signals representing the state of the game in some format 
-compatible to it's mechanism, and may send signals intended to 
+compatible to its mechanism, and may send signals intended to 
 manipulate the game world. For example, given the game of checkers, the 
 intelligence may be presented with a picture that represents the state 
 of the board. Given the game of a maze, it would be presented with a 
 picture of what it can see from its position in the maze. Given 
 Turing's imitation game, it would be presented with the text of the 
 question of the interrogator. From there, the intelligence may send a 
-response signal in some format. Given the game of checkers, its 
-response signal would represent the placement of a piece on the board. 
-It is critical that the intelligence is forced to infer every aspect of 
-the game, from ruleset to win and loss conditions, only by the effect 
-its output signals have on its input signals. By presenting the 
-intelligence with various games that test the various aspects of 
-intelligence, one may measure quantitative metrics on its performance, 
-such as speed, flexibility, and depth of learning. An intelligence may 
-then be considered to have reached human-level when it performs with 
-comparable speed, flexibility, and depth of learning on every tested 
-game. Such a test has the useful property of being complete -- If one 
-is concerned that the test is missing some critical component of 
-intelligence, one needs to just devise a new game that demonstrates 
-that component of intelligence.
+response signal in some format. Taking again the example of the game of 
+checkers, its response signal would represent the placement of a piece 
+on the board. It is critical that the intelligence is forced to infer 
+every aspect of the game, ruleset, win and loss conditions, everything, 
+only by the effect its output signals have on its input signals. By 
+presenting the intelligence with various games that test the various 
+aspects of intelligence, one may measure quantitative metrics on its 
+performance, such as speed, flexibility, and depth of learning. An 
+intelligence may then be considered to have reached human level when it 
+performs with comparable speed, flexibility, and depth of learning on 
+every tested game. Such a test has the useful property of being 
+complete -- If one is concerned that the test is missing some critical 
+component of intelligence, one needs only to devise a additional game 
+that demonstrates that component of intelligence.
 
 Indeed, many AI techniques may be considered to be taking a similar 
 approach. Unfortunately, most modern techniques are still fairly slow, 
 inflexible, and shallow. Most good AIs are only capable of playing a 
 single game, and the few techniques that can be applied to multiple 
-games are slow and shallow. A few new contenders with great potential 
-include the cortical learning algorithm (CLA), hierarchical temporal 
-memory (HTM), and various deep learning and deep belief neural nets. 
-Still, the main challenge with such mechanisms remains their 
+games are slow and ineffective. A few new contenders with great 
+potential include the cortical learning algorithm (CLA), hierarchical 
+temporal memory (HTM), and various deep learning and deep belief neural 
+nets. Still, the main challenge with such mechanisms remains their 
 programming.
 
 ## 5.0 Additions {#additions}
-Additionally, I wish to propose new definition of the term 'mind'. 
+In addition, I wish to propose new definition of the term 'mind'. 
 'Mind' may be considered to be a "unit of an intelligent mechanism". 
 This definition has the useful property of being compatible with the 
 previously discussed intelligence test. For example, one could define 
 the minimum cognitive function required to play at a human level to be 
-one human mind unit. Similarly, an amount of cognitive comparable to a 
-mouse could be defined to be one mouse mind unit. This definition of 
-the mind is fairly flexible. Suppose that a few years from now, it's 
-found that the minimum cognitive hardware needed for intelligence is a 
-complete, human-sized neural network. No problem, just define the 
+one human mind unit. Similarly, an amount of cognitive function 
+comparable to a mouse could be defined to be one mouse mind unit. This 
+definition of the mind is fairly flexible. Suppose that a few years 
+from now, it is found that the minimum hardware needed for intelligence 
+is a complete, human-sized neural network. No problem, just define the 
 minimal unit of mind to be one human mind unit. Supposed it's found to 
 be about the level of a cat, just define it to be one cat mind unit. 
-Coupled with the above test, this definition enabled quantitative and 
+Coupled with the above test, this definition enables quantitative and 
 objective measures of general intelligence.
 
 ## 6.0 Short Proofs {#short-proof}
@@ -201,7 +202,19 @@ turing-complete machine. Since human minds are intelligent, and can be
 run on machines, intelligent machines much be possible.
 
 ## 7.0 Conclusion {#conclusion}
-While visionary, and an inspiration to much of modern AI, Turing's argument for the feasibility of intelligent machines was not complete. Instead of directly addressing the problem, he attempts to reform the question by to describing a theoretical test for a identifying such an intelligent machine, which he called "the imitation game". I have improved upon his argument, exposing the flaws, and expanding the scope of his test. Additionally, I have produce two partial proofs of the feasibility of intelligent machines and introduced the concept of the mind unit. While a strict empirical definition of a mind unit remains to be determined, I have provided examples as to how such units might be measured. While intelligent machines have yet to be created, there is not doubt that they are within our reach, and will soon become a reality.
+While visionary, and an inspiration to much of modern AI, Turing's 
+argument for the feasibility of intelligent machines was incomplete. 
+Instead of directly addressing the problem, he attempts to reform the 
+question by to describing a theoretical test for a identifying such an 
+intelligent machine, which he called "the imitation game". I have 
+improved upon his argument, exposing the flaws, and expanding the scope 
+of his test. Additionally, I have produce two partial proofs of the 
+feasibility of intelligent machines and introduced the concept of the 
+mind unit. While a strict empirical definition of a mind unit remains 
+to be determined, I have provided examples as to how such units might 
+be measured. While intelligent machines have yet to be created, there 
+is not doubt that they are within our reach, and will soon become a 
+reality.
 
 ## 8.0 References {#refs}
 
