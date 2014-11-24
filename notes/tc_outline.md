@@ -1,5 +1,4 @@
 ## outline for turing_criticism.md
-## Outline
  - introduction
  - minor criticisms
 	 - lack of brevity
