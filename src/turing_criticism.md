@@ -34,8 +34,8 @@ closer to humans than inanimate objects, a fairly sound claim. However
 in the second, brief allusion, he make the claim "Animals' minds seem 
 to be very definitely subcritical."(Section 7). This has been proven to 
 be false. Octopi and honey badgers, for example, have been demonstrated 
-to be amazing escape artists^\[0,0\]^. Dolphins have been shown to have 
-developed their own unique languages consisting of whistles^\[0\]^. In 
+to be amazing escape artists^\[1,2\]^. Dolphins have been shown to have 
+developed their own unique languages consisting of whistles^\[3\]^. In 
 fact, there is no trait of human intelligence that not demonstrated in 
 other animals. Some animals even surpass human intelligence! By 
 dismissing all non-human intelligence, Turing ignores one of the 
@@ -179,10 +179,10 @@ mouse could be defined to be one mouse mind unit. This definition of
 the mind is fairly flexible. Suppose that a few years from now, it's 
 found that the minimum cognitive hardware needed for intelligence is a 
 complete, human-sized neural network. No problem, just define the 
-minimal unit of mind to be one human mind unit. Supposed it's about the 
-level of a cat, just define it to be one cat mind unit. Coupled with 
-the above test, this definition enabled quantitative and objective 
-measures of general intelligence.
+minimal unit of mind to be one human mind unit. Supposed it's found to 
+be about the level of a cat, just define it to be one cat mind unit. 
+Coupled with the above test, this definition enabled quantitative and 
+objective measures of general intelligence.
 
 ## 6.0 Short Proofs {#short-proof}
 Here I will make a few short attempts at proofs of feasibility of 
@@ -201,24 +201,18 @@ turing-complete machine. Since human minds are intelligent, and can be
 run on machines, intelligent machines much be possible.
 
 ## 7.0 Conclusion {#conclusion}
-While visionary and an inspiration to much of modern AI, Turing's argument for the feasibility of intelligent machines was somewhat weak
+While visionary, and an inspiration to much of modern AI, Turing's argument for the feasibility of intelligent machines was not complete. Instead of directly addressing the problem, he attempted to describe a theoretical test for a identifying an intelligent machine, which he called "the imitation game". I have improved upon his argument, exposing the flaws, and expanding the scope of his test. Additionally, I have produce two partial proofs of the feasibility of intelligent machines and introduced the concept of the mind unit. While a strict empirical definition of a mind unit remains to be determined, I have provided examples as to how such units may be measured.
 
 ## 8.0 References {#refs}
 
-| \[0\] Honey Badger Houdini - Honey Badgers: Masters of Mayhem.  
+| \[1\] Honey Badger Houdini - Honey Badgers: Masters of Mayhem.  
 |     <https://www.youtube.com/watch?v=c36UNSoJenI>  
 |     Retrieved 2014-11-13  
 
-| \[0\] Octopus Escapes Jar  
+| \[2\] Octopus Escapes Jar  
 |     <https://www.youtube.com/watch?v=IvvjcQIJnLg>  
 |     Retrieved 2014-11-13  
 
-| \[0\] Speak Dolphin: Dolphin Communication Research  
+| \[3\] Speak Dolphin: Dolphin Communication Research  
 |     <http://www.speakdolphin.com/ResearchItems.cfm?ID=6>  
 |     Retrieved 2014-11-13  
-
-<!-- reference links -->
-
-<!-- footnotes -->
-[^footnote]: This is a footnote.
-
