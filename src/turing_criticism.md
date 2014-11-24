@@ -201,7 +201,7 @@ turing-complete machine. Since human minds are intelligent, and can be
 run on machines, intelligent machines much be possible.
 
 ## 7.0 Conclusion {#conclusion}
-While visionary, and an inspiration to much of modern AI, Turing's argument for the feasibility of intelligent machines was not complete. Instead of directly addressing the problem, he attempted to describe a theoretical test for a identifying an intelligent machine, which he called "the imitation game". I have improved upon his argument, exposing the flaws, and expanding the scope of his test. Additionally, I have produce two partial proofs of the feasibility of intelligent machines and introduced the concept of the mind unit. While a strict empirical definition of a mind unit remains to be determined, I have provided examples as to how such units may be measured.
+While visionary, and an inspiration to much of modern AI, Turing's argument for the feasibility of intelligent machines was not complete. Instead of directly addressing the problem, he attempts to reform the question by to describing a theoretical test for a identifying such an intelligent machine, which he called "the imitation game". I have improved upon his argument, exposing the flaws, and expanding the scope of his test. Additionally, I have produce two partial proofs of the feasibility of intelligent machines and introduced the concept of the mind unit. While a strict empirical definition of a mind unit remains to be determined, I have provided examples as to how such units might be measured. While intelligent machines have yet to be created, there is not doubt that they are within our reach, and will soon become a reality.
 
 ## 8.0 References {#refs}
 
