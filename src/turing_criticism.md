@@ -3,13 +3,11 @@
 
 Author: Kurotetsuka :: [`github.com/kurotetsuka`](
 	https://github.com/kurotetsuka)  
-Version: `1.0.0`  
+Version: `1.0.1`  
 Date: `7deb17` / `2014-11-23`  
 License: Creative Commons by Attribution  
 Sources: [`github.com/kurotetsuka/papers`](
 	https://github.com/kurotetsuka/papers/blob/master/src/turing_criticism.md)  
-Permalink: [`turing-criticism_v1.0.0`](
-	https://github.com/kurotetsuka/papers/releases/download/turing-criticism_v0.1.0/turing_criticism.pdf)
 
 ## 1.0 Introduction {#intro}
 Alan Turing's famous essay "Computing Machinery and Intelligence" is 
@@ -76,7 +74,8 @@ absolutely no relation to the mathematical objection. The correct
 response, of course, is that the Godel's incompleteness theorem does 
 not just apply to machines, but humans as well. Thus, it cannot be a 
 limiting factor to intelligence, and has no implication on the 
-feasibility of intelligent machines. It does, however, have implications on the design of intelligent machines.
+feasibility of intelligent machines. It does, however, have 
+implications on the design of intelligent machines.
 
 ### 2.4 Dismissal of the Lovelace Objection {#crits-lovelace}
 Though somewhat better, Turing's dismissal of the Lovelace objection is 
@@ -208,13 +207,13 @@ Instead of directly addressing the problem, he attempts to reform the
 question by to describing a theoretical test for a identifying such an 
 intelligent machine, which he called "the imitation game". I have 
 improved upon his argument, exposing the flaws, and expanding the scope 
-of his test. Additionally, I have produce two partial proofs of the 
+of his test. Additionally, I have produced two partial proofs of the 
 feasibility of intelligent machines and introduced the concept of the 
 mind unit. While a strict empirical definition of a mind unit remains 
 to be determined, I have provided examples as to how such units might 
-be measured. While intelligent machines have yet to be created, there 
-is not doubt that they are within our reach, and will soon become a 
-reality.
+be measured. While intelligent machines have yet to be synthesized,
+there is not doubt that they are within our reach, and will soon become 
+a reality.
 
 ## 8.0 References {#refs}
 
